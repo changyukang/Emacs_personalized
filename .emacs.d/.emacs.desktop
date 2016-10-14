@@ -1,0 +1,62 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Oct 13 21:48:31 2016
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("ini" "emacs"))
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "‘Àï‘Ãæ‘È¥‘¼Ó‘ÔØorg.el")))
+(setq file-name-history '("d:/test/test.txt" "d:/test/test.org" "c:/Users/kang/Desktop/" "d:/ktest.org" "~/.emacs.d/init.el" "~/.emacs.d/my-org-mode.el" "d:/ktest.org" "~/.emacs.d/my-org-mode.el" "d:/ktest.org" "d:/emacs-24.3/.emacs.d/init.el" "d:" "d:/emacs-24.3/.emacs.d/init.el" "~/.emacs.d/init.el" "d:/emacs-24.3/.emacs.d/init.el" "d:/emacs-24.3/.emacs.d/my-org-mode.el" "d:/emacs-24.3/.emacs.d/init.el" "~/.emacs.d/init" "d:/emacs-24.3/.emacs.d/init.el" "~/.emacs.d/init.el" "d:/emacs-24.3/.emacs.d/init.el" "~/.emacs.d/org-mode.el" "~/.emacs.d/init.el" "d:/ktest.org" "~/.emacs.d/init.el" "d:/emacs-24.3/.emacs.d/" "~/.emacs.d/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(auto-fill-mode visual-line-mode global-visual-line-mode linum-mode)
+  1861
+  '(1 nil)
+  t
+  '("d:/emacs-24.3/info/mairix-el" "Top" ((history ("dir" "Top" 1889) ("d:/emacs-24.3/info/info" "Advanced" 34153) ("d:/emacs-24.3/info/info" "Top" 2696) ("dir" "Top" 227) ("d:/emacs-24.3/info/info" "Top" 1439) ("dir" "Top" 227) ("d:/emacs-24.3/info/info" "Help-Q" 33969) ("d:/emacs-24.3/info/info" "Help-Int" 32850) ("d:/emacs-24.3/info/info" "Help-Xref" 28619) ("d:/emacs-24.3/info/info" "Help-Int" 31021) ("d:/emacs-24.3/info/info" "Help-Xref" 29338) ("d:/emacs-24.3/info/info" "Getting Started" 3670) ("d:/emacs-24.3/info/info" "Top" 2626) ("d:/emacs-24.3/info/info" "Expert Info" 47848) ("d:/emacs-24.3/info/info" "Add" 48300) ("d:/emacs-24.3/info/info" "Menus" 51574) ("d:/emacs-24.3/info/info" "Cross-refs" 54467) ("d:/emacs-24.3/info/info" "Menus" 51574) ("d:/emacs-24.3/info/info" "Add" 48300) ("d:/emacs-24.3/info/info" "Menus" 51574) ("d:/emacs-24.3/info/info" "Cross-refs" 55101) ("d:/emacs-24.3/info/info" "Help-Cross" 55215) ("d:/emacs-24.3/info/info" "Help-Xref" 26576) ("d:/emacs-24.3/info/info" "Getting Started" 3670) ("d:/emacs-24.3/info/info" "Help-Xref" 26409) ("d:/emacs-24.3/info/info" "Help-M" 24979) ("d:/emacs-24.3/info/info" "Help-FOO" 25402) ("d:/emacs-24.3/info/info" "Help-M" 22096) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 16458) ("d:/emacs-24.3/info/info" "Help-Inv" 15175) ("d:/emacs-24.3/info/info" "Help-]" 16458) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 16458) ("d:/emacs-24.3/info/info" "Help-Inv" 15175) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-Inv" 15129) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-]" 16458) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-M" 16886) ("d:/emacs-24.3/info/info" "Help-Inv" 15072) ("d:/emacs-24.3/info/info" "Help-]" 16458) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-]" 15279) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-^L" 12842) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 10970) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 8032) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-Inv" 13635) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 8191) ("d:/emacs-24.3/info/info" "Getting Started" 3040) ("d:/emacs-24.3/info/info" "Top" 1963) ("dir" "Top" 872) ("d:/emacs-24.3/info/info" "Top" 1109) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 3896) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Getting Started" 3470) ("d:/emacs-24.3/info/info" "Help-P" 7431) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Getting Started" 3432) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 3896) ("d:/emacs-24.3/info/info" "Getting Started" 3382) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 3896) ("d:/emacs-24.3/info/info" "Getting Started" 3382) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5224) ("d:/emacs-24.3/info/info" "Getting Started" 3385) ("d:/emacs-24.3/info/info" "Help" 7429) ("d:/emacs-24.3/info/info" "Help-P" 8637) ("d:/emacs-24.3/info/info" "Help-^L" 9768) ("d:/emacs-24.3/info/info" "Help-Inv" 14797) ("d:/emacs-24.3/info/info" "Help-]" 16530) ("d:/emacs-24.3/info/info" "Help-M" 18121) ("d:/emacs-24.3/info/info" "Help-FOO" 26319) ("d:/emacs-24.3/info/info" "Help-Xref" 27610) ("d:/emacs-24.3/info/info" "Help-Int" 31022) ("d:/emacs-24.3/info/info" "Help-Q" 34026) ("d:/emacs-24.3/info/info" "Advanced" 34153) ("d:/emacs-24.3/info/info" "Getting Started" 3368) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 4872) ("d:/emacs-24.3/info/info" "Help" 6918) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 6851) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5776) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5288) ("d:/emacs-24.3/info/info" "Getting Started" 3583) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 3896) ("d:/emacs-24.3/info/info" "Getting Started" 3429) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5224) ("d:/emacs-24.3/info/info" "Getting Started" 3470) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 6851) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5224) ("d:/emacs-24.3/info/info" "Getting Started" 3378) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 5224) ("d:/emacs-24.3/info/info" "Getting Started" 3384) ("d:/emacs-24.3/info/info" "Top" 2638) ("dir" "Top" 872) ("d:/emacs-24.3/info/info" "Top" 2626) ("d:/emacs-24.3/info/info" "Getting Started" 3429) ("d:/emacs-24.3/info/info" "Help" 7350) ("d:/emacs-24.3/info/info" "Getting Started" 3431) ("d:/emacs-24.3/info/info" "Top" 2630) ("dir" "Top" 872) ("d:/emacs-24.3/info/info" "Top" 2626) ("d:/emacs-24.3/info/info" "Getting Started" 3429) ("d:/emacs-24.3/info/info" "Help" 5778) ("d:/emacs-24.3/info/emacs" "Top" 1222) ("dir" "Top" 957) ("d:/emacs-24.3/info/info" "Top" 2626) ("d:/emacs-24.3/info/info" "Getting Started" 3429) ("d:/emacs-24.3/info/info" "Help" 6383) ("d:/emacs-24.3/info/info" "Top" 1985) ("d:/emacs-24.3/info/info" "Getting Started" 3040) ("d:/emacs-24.3/info/info" "Top" 2638) ("dir" "Top" 872) ("d:/emacs-24.3/info/info" "Top" 1884) ("dir" "Top" 872) ("d:/emacs-24.3/info/info" "Top" 2626) ("d:/emacs-24.3/info/info" "Getting Started" 3429) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-Small-Screen" 3896) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Top" 1711) ("dir" "Top" 872) ("d:/emacs-24.3/info/eintr" "Top" 2290) ("d:/emacs-24.3/info/eintr" "List Processing" 31268) ("d:/emacs-24.3/info/eintr" "Practicing Evaluation" 87532) ("d:/emacs-24.3/info/eintr" "List Processing" 31268) ("d:/emacs-24.3/info/eintr" "Preface" 21549) ("d:/emacs-24.3/info/eintr" "Top" 1581) ("d:/emacs-24.3/info/eintr" "Preface" 20633) ("d:/emacs-24.3/info/eintr" "Top" 1524) ("d:/emacs-24.3/info/eintr" "Preface" 21022) ("d:/emacs-24.3/info/eintr" "Top" 2946) ("dir" "Top" 1106) ("d:/emacs-24.3/info/info" "Top" 1045) ("d:/emacs-24.3/info/info" "Getting Started" 3720) ("d:/emacs-24.3/info/info" "Top" 2624) ("d:/emacs-24.3/info/info" "Help-^L" 8639) ("d:/emacs-24.3/info/info" "Getting Started" 3524) ("d:/emacs-24.3/info/info" "Top" 1109) ("d:/emacs-24.3/info/info" "Getting Started" 3040) ("d:/emacs-24.3/info/info" "Top" 1109) ("d:/emacs-24.3/info/info" "Help-P" 7431) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help-^L" 8725) ("d:/emacs-24.3/info/info" "Help-P" 8228) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 5870) ("d:/emacs-24.3/info/info" "Help-P" 7513) ("d:/emacs-24.3/info/info" "Help" 7429) ("d:/emacs-24.3/info/info" "Getting Started" 3427) ("d:/emacs-24.3/info/info" "Top" 2624) ("dir" "Top" 872) ("d:/emacs-24.3/info/cl" "Declarations" 96704) ("d:/emacs-24.3/info/cl" "Macros" 93464) ("d:/emacs-24.3/info/cl" "Control Structure" 32078) ("d:/emacs-24.3/info/cl" "Predicates" 25674) ("d:/emacs-24.3/info/cl" "Program Structure" 10129) ("d:/emacs-24.3/info/cl" "Overview" 3124) ("d:/emacs-24.3/info/cl" "Top" 1002) ("dir" "Top" 4888) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 227) ("dir" "Top" 760))))
+  '((tab-width . 8) (buffer-file-coding-system . iso-latin-1-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "d:/emacs-24.3/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode visual-line-mode global-visual-line-mode linum-mode)
+  3864
+  '(7500 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . chinese-gbk-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "Desktop"
+  'dired-mode
+  '(auto-fill-mode visual-line-mode global-visual-line-mode linum-mode)
+  278
+  '(1009 nil)
+  t
+  '("c:/Users/kang/Desktop/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "d:/emacs-24.3/.emacs.d/my-org-mode.el"
+  "my-org-mode.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode visual-line-mode global-visual-line-mode linum-mode)
+  352
+  '(309 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . chinese-gbk-dos) (truncate-lines)))
+
